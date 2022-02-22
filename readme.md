@@ -1,6 +1,6 @@
 ### Remarks
-The data and information are shared by my friends who interviewed with Revolut.<br>
-*Background*: Fraud case is expected to be found form the given dataset<br>
+The data and information are shared by my friends who interviewed with Revolut.<br><br>
+**Background**: Fraud case is expected to be found form the given dataset<br><br>
 *What I've done*:<br>
 1. Quick data cleansing
 2. Upsampling the fraud case
